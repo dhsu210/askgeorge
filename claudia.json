@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "askgeorge-executor",
+    "name": "askgeorge",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "4cv1i7b8ja",
+    "module": "app"
+  }
+}
